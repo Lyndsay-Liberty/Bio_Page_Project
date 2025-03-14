@@ -16,6 +16,10 @@
             Margin-top: 20px
             background: white; 
         }
+main{
+    display: block;
+    list-style-type: none;
+}
         .profile-img {
         width: 150px;
         height: auto;
@@ -33,7 +37,7 @@
 .projects {
             margin-bottom: 20px;
                 text-align: center;
-    list-style-type:none;
+    list-style-type: none;
 }
             a {
             color: #333;
