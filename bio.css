@@ -19,17 +19,21 @@
         .profile-img {
         width: 150px;
         height: auto;
-        border-radius: 50%;
+        border-radius: 30%;
         border:solid 2px;
         border-color:#5f047a;
         }
         h1 {
             margin-top: 10px;
             }
-            .bio, .projects {
+            .bio,  {
             margin-bottom: 20px;
                 text-align: center;
             }
+.projects {
+            margin-bottom: 20px;
+                text-align: center;
+}
             a {
             color: #333;
             text-decoration: none;
