@@ -22,7 +22,7 @@ header {
         }
 main {
     display: block;
-    list-style: none;
+    list-style-type: none;
 }
         .profile-img {
         width: 150px;
