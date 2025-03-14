@@ -12,6 +12,10 @@
         list-style: none;
         text-align: center;
         }
+.funpic-img{
+    display: flex;
+    float: right;   
+}
        
 header {
         text-align: center;
