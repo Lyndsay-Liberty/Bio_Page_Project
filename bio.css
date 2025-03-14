@@ -9,7 +9,7 @@
         line-height: 1.6;
         padding: 20px;
         background: linear-gradient(to right, #ff7eab, #80d0c7, #a8c0e0); /* Multicolored gradient */
-        list-style-type: none;
+        list-style: none;
         text-align: center;
         }
        
@@ -21,7 +21,7 @@ header {
         }
 main {
     display: block;
-    list-style-type: none;
+    list-style: none;
 }
         .profile-img {
         width: 150px;
@@ -40,7 +40,7 @@ main {
 .projects {
             margin-bottom: 20px;
                 text-align: center;
-    list-style-type: none;
+    list-style: none;
 }
             a {
             color: #333;
