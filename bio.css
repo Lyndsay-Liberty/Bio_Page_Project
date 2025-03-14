@@ -10,8 +10,10 @@
         padding: 20px;
         background: linear-gradient(to right, #ff7eab, #80d0c7, #a8c0e0); /* Multicolored gradient */
         list-style-type: none;
+        text-align: center;
         }
-        header {
+       
+header {
         text-align: center;
         margin-bottom: 20px;
             Margin-top: 20px
