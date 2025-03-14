@@ -41,7 +41,7 @@ main {
 .projects {
             margin-bottom: 20px;
                 text-align: center;
-    list-style: none;
+    list-style-type: none;
 }
             a {
             color: #333;
